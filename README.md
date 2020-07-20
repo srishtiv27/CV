@@ -1,2 +1,2 @@
 # CV
-My first web development project made using HTML and CSS.
+My first web development project made using HTMl.
